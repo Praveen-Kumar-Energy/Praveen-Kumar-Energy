@@ -1,16 +1,16 @@
 <div align="center">
 
-# Dr. P. Praveen Kumar
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Dr.+P.+Praveen+Kumar;Energy+Systems+Researcher;Optimization+Engineer;PSP+%2B+PV+%2B+BESS+Day-Ahead+Trading)](https://git.io/typing-svg)
 
-**Energy Systems Researcher Â· Optimization Engineer Â· Energy Trading Specialist**
+<br/>
 
-*PostDoc Researcher â€” INESC TEC, Porto, Portugal*
+**PostDoc Researcher — INESC TEC Porto, Portugal**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praveen-kumar-polamarasetty)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudikdivik)
-
-![Profile Views](https://komarev.com/ghpvc/?username=sudikdivik&color=blue&style=flat-square)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudikdivik)
+[![Profile Views](https://komarev.com/ghpvc/?username=sudikdivik&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/sudikdivik)
 
 </div>
 
@@ -18,122 +18,133 @@
 
 ## About Me
 
-I am a PostDoc researcher at **INESC TEC Porto** working at the intersection of energy systems research and industrial energy trading. My work focuses on building production-grade optimization systems that schedule hydro-solar-battery portfolios on Iberian electricity markets â€” the kind of code that runs in control rooms, not just in papers.
-
-- ðŸŽ“ **PhD** â€” Indian Institute of Technology (IIT) Roorkee
-- ðŸ“ **Location** â€” Porto, Portugal
-- ðŸ›ï¸ **Institution** â€” INESC TEC (Institute for Systems and Computer Engineering, Technology and Science)
-- ðŸ“Š **1,350+ citations Â· h-index 21** Â· Scopus-verified
-- âš¡ **Research focus** â€” PSP + PV + BESS co-optimization, MILP, Iberian energy markets
-
-I am actively transitioning from academic research into industry roles in **energy trading, asset optimization, and power systems engineering**.
+```python
+class EnergyResearcher:
+    def __init__(self):
+        self.name        = "Dr. P. Praveen Kumar"
+        self.role        = "PostDoc Researcher"
+        self.institution = "INESC TEC, Porto, Portugal"
+        self.phd         = "IIT Roorkee"
+        self.citations   = "1,350+"
+        self.h_index     = 21
+        self.focus       = ["PSP + PV + BESS Optimization",
+                            "MILP / Pyomo / HiGHS",
+                            "OMIE Iberian DA Market",
+                            "aFRR / PICASSO Reserves",
+                            "VaR / CVaR Risk Management"]
+        self.open_to     = "Energy Trading & Asset Optimization roles in Europe"
+```
 
 ---
 
-## Technical Stack
+## Tech Stack
 
-### Optimization & Mathematical Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pyomo](https://img.shields.io/badge/Pyomo-MILP_Modelling-orange?style=flat-square)
-![HiGHS](https://img.shields.io/badge/HiGHS-Open_Source_Solver-green?style=flat-square)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+### Optimization & Modelling
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pyomo](https://img.shields.io/badge/Pyomo-MILP-orange?style=for-the-badge)
+![HiGHS](https://img.shields.io/badge/HiGHS-Solver-green?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Solvers:** HiGHS Â· CPLEX Â· Gurobi Â· CBC  
-**Frameworks:** Pyomo Â· PuLP Â· CVXPY  
-**Problem classes:** MILP Â· MIQP Â· LP Â· Stochastic Programming  
+### Infrastructure & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
-### Energy Markets & Systems
-| Domain | Expertise |
-|--------|-----------|
-| **Markets** | OMIE Iberian DA, aFRR/PICASSO, ENTSO-E |
-| **Settlement** | ISP15 imbalance, 96-period quarter-hourly |
-| **Assets** | Pumped-storage hydro (PSP), utility-scale PV, BESS |
-| **Risk** | VaR, CVaR, Historical simulation, Monte Carlo |
-| **Regulations** | EU capacity markets, balancing mechanism |
+### Energy Markets
+![OMIE](https://img.shields.io/badge/OMIE-Iberian_DA_Market-blue?style=for-the-badge)
+![ENTSO-E](https://img.shields.io/badge/ENTSO--E-Transparency-navy?style=for-the-badge)
+![aFRR](https://img.shields.io/badge/aFRR-PICASSO_Reserve-purple?style=for-the-badge)
 
-### Software Engineering
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+---
 
-**Architecture patterns:** CLI-driven pipelines Â· SQLite audit logs Â· Four-eyes approval workflows Â· Config-driven design
+## GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudikdivik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudikdivik&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sudikdivik&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sudikdivik&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+[![Praveen's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sudikdivik&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
 ## Featured Project
 
-### [psp-optimizer](https://github.com/sudikdivik/psp-optimizer) â€” Industrial PSP+PV+BESS Trading System
+<div align="center">
 
-> *Production-grade day-ahead scheduling system for a pumped-storage + solar + battery portfolio on the OMIE Iberian market. Built to the standard of a real energy trading desk.*
+[![PSP-PV-BESS-DA-Optimizer](https://github-readme-stats.vercel.app/api/pin/?username=sudikdivik&repo=PSP-PV-BESS-DA-Optimizer&theme=tokyonight&hide_border=true)](https://github.com/sudikdivik/PSP-PV-BESS-DA-Optimizer)
+
+</div>
+
+> **PSP-PV-BESS-DA-Optimizer** — Industrial-grade MILP scheduling system for a 256 MW pumped-storage + 50 MW solar + 20 MW battery portfolio on the OMIE Iberian day-ahead market. Four-eyes approval, VaR/CVaR risk engine, ISP15 settlement, 30-day backtest.
 
 ```
-PSP (Alqueva, 256 MW) + PV (50 MW) + BESS (20 MW / 80 MWh)
-      â†“ MILP (Pyomo + HiGHS)
-   Day-Ahead Schedule â†’ OMIE Bid â†’ Four-Eyes Approval â†’ Settlement
+PSP (256 MW) + PV (50 MW) + BESS (20 MW / 80 MWh)
+         ↓  MILP (Pyomo + HiGHS, ~1 s)
+  DA Schedule → OMIE Bid → Approval → Settlement
 ```
-
-**What makes it industrial-grade:**
-- âœ… Full MILP model: unit commitment, SOS2 efficiency curves, McCormick head coupling
-- âœ… OMIE DA market bidding + aFRR/PICASSO reserve co-optimisation
-- âœ… Four-eyes approval workflow (PENDING â†’ APPROVED â†’ SUBMITTED)
-- âœ… VaR/CVaR risk engine: historical simulation + 10,000 Monte Carlo resamples
-- âœ… ISP15 imbalance settlement (96 quarter-hourly periods)
-- âœ… SQLite audit trail, config-driven YAML, full CLI (`da` / `approve` / `settle`)
-- âœ… 30-day backtest: 30/30 days optimal, avg 1.0 s/day
-
-**Tech:** Python Â· Pyomo Â· HiGHS Â· SQLite Â· pandas Â· PyYAML Â· pytest
 
 ---
 
 ## Research Areas
 
-```
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-â”‚  Energy Storage Optimization                            â”‚
-â”‚  â”œâ”€â”€ Pumped-storage hydro scheduling                   â”‚
-â”‚  â”œâ”€â”€ Battery energy storage (BESS) dispatch            â”‚
-â”‚  â””â”€â”€ Hybrid PSP + PV + BESS co-optimization           â”‚
-â”‚                                                         â”‚
-â”‚  Electricity Markets                                    â”‚
-â”‚  â”œâ”€â”€ Day-ahead market bidding strategies               â”‚
-â”‚  â”œâ”€â”€ Reserve capacity (aFRR/PICASSO)                   â”‚
-â”‚  â””â”€â”€ Imbalance settlement mechanisms                   â”‚
-â”‚                                                         â”‚
-â”‚  Risk & Uncertainty                                     â”‚
-â”‚  â”œâ”€â”€ Stochastic price forecasting                      â”‚
-â”‚  â”œâ”€â”€ VaR / CVaR portfolio risk                         â”‚
-â”‚  â””â”€â”€ Scenario-based robust optimisation               â”‚
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
-```
+| Domain | Topics |
+|--------|--------|
+| ⚡ **Energy Storage** | Pumped-storage hydro, Li-ion BESS, hybrid co-optimization |
+| 📈 **Electricity Markets** | OMIE DA bidding, aFRR/PICASSO, imbalance settlement |
+| 🔢 **Mathematical Programming** | MILP, SOS2, McCormick linearisation, stochastic programming |
+| 📊 **Risk Management** | VaR, CVaR, Monte Carlo, scenario-based stress testing |
+| 🌞 **Renewables Integration** | PV forecasting, wind uncertainty, flexibility markets |
 
 ---
 
-## Publications & Impact
+## Publications Impact
 
-| Metric | Value |
-|--------|-------|
-| Total Citations | **1,350+** |
-| h-index | **21** |
-| i10-index | Available on Google Scholar |
-| PhD Institution | **IIT Roorkee** |
-| Current Position | **PostDoc, INESC TEC Porto** |
+<div align="center">
 
----
+| 📚 Citations | 🎯 h-index | 🏛️ Institution | 🎓 PhD |
+|:---:|:---:|:---:|:---:|
+| **1,350+** | **21** | INESC TEC Porto | IIT Roorkee |
 
-## Let's Connect
-
-I am open to discussions on:
-- **Energy trading & optimization** roles in Europe
-- **Asset management** software for renewables + storage
-- **Research collaborations** in energy systems
-
-ðŸ“§ Reach me via [LinkedIn](https://linkedin.com/in/praveen-kumar-polamarasetty) or open an issue/discussion on any repository.
+</div>
 
 ---
 
 <div align="center">
 
-*"The best optimizer is one that runs in production."*
+*Open to energy trading, asset optimization, and power systems engineering roles across Europe.*
+
+**"The best optimizer is one that runs in production."**
 
 </div>
