@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,30:16213e,60:0f3460,100:533483&height=260&section=header&text=Dr.%20Praveen%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=⚡%20Energy%20Asset%20Optimisation%20%20|%20%20MILP%20Dispatch%20%20|%20%20Iberian%20Power%20Markets&descSize=17&descAlignY=58&descAlign=50&animation=fadeIn&stroke=ffffff&strokeWidth=1)
+﻿![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,30:16213e,60:0f3460,100:533483&height=260&section=header&text=Dr.%20Praveen%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=⚡%20Energy%20Asset%20Optimisation%20%20|%20%20MILP%20Dispatch%20%20|%20%20Iberian%20Power%20Markets&descSize=17&descAlignY=58&descAlign=50&animation=fadeIn&stroke=ffffff&strokeWidth=1)
 
 <br/>
 
@@ -150,17 +150,17 @@ Built a production-grade **14-gate multi-market MILP bidding and scheduling syst
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praveen-Kumar-Energy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dr-praveen-energy-trading&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-Kumar-Energy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr-praveen-energy-trading&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen-Kumar-Energy&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dr-praveen-energy-trading&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="95%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Praveen-Kumar-Energy&theme=tokyonight&no-frame=true&margin-w=10&column=6&no-bg=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=dr-praveen-energy-trading&theme=tokyonight&no-frame=true&margin-w=10&column=6&no-bg=true"/>
 </p>
 
 ---
